@@ -1,6 +1,6 @@
 //scelta 2 numeri casuali
-let num1 = 30;
-let num2 = 50;
+let num1 = Number(prompt("inserisci il primo numero:"));
+let num2 = Number(prompt("inserisci il secondo numero:"));
 //somma
 let somma = num1 + num2;
 // moltiplicazione
